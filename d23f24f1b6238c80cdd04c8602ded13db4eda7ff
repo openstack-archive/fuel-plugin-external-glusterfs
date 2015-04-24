@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+1: Vladimir Kuklin <vkuklin@mirantis.com>
+Code-Review+2: Stanislaw Bogatkin <sbogatkin@mirantis.com>
+Workflow+1: Stanislaw Bogatkin <sbogatkin@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Fri, 24 Apr 2015 12:59:02 +0000
+Reviewed-on: https://review.openstack.org/174807
+Project: stackforge/fuel-plugin-external-glusterfs
+Branch: refs/heads/master
